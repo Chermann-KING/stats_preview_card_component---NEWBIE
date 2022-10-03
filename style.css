@@ -115,7 +115,7 @@ main {
 }
 .stat-card-img {
   flex: 1.4;
-  background-image: url("/images/image-header-desktop.jpg");
+  background-image: url("./images/image-header-desktop.jpg");
   background-size: auto;
   background-repeat: no-repeat;
   background-position: center right;
@@ -171,7 +171,7 @@ main {
     border-radius: var(--borderRadius) var(--borderRadius) 0 0;
   }
   .stat-card-img {
-    background-image: url("/images/image-header-mobile.jpg");
+    background-image: url("./images/image-header-mobile.jpg");
     background-size: cover;
     background-position: top center;
   }
